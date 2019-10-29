@@ -2,10 +2,11 @@ body {
   background-color: cornflowerblue;
 };
  
-#layout {
-  background-color: darkblue;
+.imagebox {
   display: block;
-  margin-left: 200pt;
+  margin: auto;
 };
 
-
+#top {
+background-color: cadetblue;
+}
