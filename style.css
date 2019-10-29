@@ -1,7 +1,11 @@
 body {
-  background-color: bisque;
+  background-color: cornflowerblue;
+};
+ 
+#layout {
+  background-color: darkblue;
+  display: block;
+  margin-left: 200pt;
 };
 
-#imagebox {
-  margin: auto;
-};
+
