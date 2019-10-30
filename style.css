@@ -1,12 +1,8 @@
 body {
-  background-color: cornflowerblue;
-};
- 
-.imagebox {
   display: block;
+  background-color: black;
+  color: white; 
   margin: auto;
 };
+ 
 
-#top {
-background-color: cadetblue;
-}
