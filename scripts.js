@@ -6,4 +6,10 @@ var userName = prompt('What is your name?');
 
 console.log('the user entered ' + userName.toUpperCase());
 
-var returnName = alert('Ok ' + userName.toUpperCase() + ' lets take a look at a basic html layout');
+var addContent = function () {
+let additionalContent = prompt('What other content should I add?');
+let answers = 0;
+  while (answers = < 10) {
+    document.write('<li>' + additionalContent + '</li>');
+  }
+}
